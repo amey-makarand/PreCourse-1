@@ -100,7 +100,7 @@ class SinglyLinkedList:
 
 a_stack = SinglyLinkedList()
 
-# Appending 3 elements
+# Appending 5 elements
 a_stack.append(23)
 a_stack.append(46)
 a_stack.append(23)
